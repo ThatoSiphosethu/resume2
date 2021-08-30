@@ -1,0 +1,7 @@
+$newPrimary: black;
+$newSecondary: green;
+
+$primary: $newPrimary;
+$secondary: $newSecondary;
+
+@import "bootstrap";
